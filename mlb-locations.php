@@ -9,7 +9,7 @@
  * that starts the plugin.
  *
  * @link              http://mylocalbeacon.com
- * @since             0.0.1
+ * @since             0.0.2
  * @package           MLB Locations
  *
  * @wordpress-plugin
@@ -20,7 +20,7 @@
  * Author:            My Local Beacon
  * Author URI:        http://mylocalbeacon.com/
  * License:           Closed source
- * Text Domain:       mlb-locations
+ * Text Domain:       goldn-locations-plugin 
  */
 
 // If this file is called directly, abort.
@@ -73,4 +73,4 @@ function run_mlb_locations() {
 run_mlb_locations();
 
 
-// updated plugin test....
+// updated plugin test again....
