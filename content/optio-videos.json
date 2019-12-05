@@ -1,0 +1,344 @@
+[
+  {
+    "title": "Dentistry",
+    "videos": [
+      {
+        "id":"dentistry/decay/about",
+        "title":"Tooth Decay: What is Tooth Decay?"
+      },
+      {
+        "id":"dentistry/decay/crown",
+        "title":"Tooth Decay: Crown"
+      },
+      {
+        "id":"dentistry/decay/filling",
+        "title":"Tooth Decay: Filling"
+      },
+      {
+        "id":"dentistry/decay/inlay_onlay",
+        "title":"Tooth Decay: Inlay / Onlay"
+      },
+      {
+        "id":"dentistry/decay/root_canal",
+        "title":"Tooth Decay: Root Canal"
+      },
+      {
+        "id":"dentistry/decay/extraction",
+        "title":"Tooth Decay: Extraction"
+      },
+      {
+        "id":"dentistry/cusp/crown",
+        "title":"Cusp Fractures: Crown"
+      },
+      {
+        "id":"dentistry/cusp/root_canal",
+        "title":"Cusp Fractures: Root Canal"
+      },
+      {
+        "id":"dentistry/cusp/crown_lengthening",
+        "title":"Cusp Fractures: Crown lengthening"
+      },
+      {
+        "id":"dentistry/missing_teeth/replacing_teeth",
+        "title":"Missing Teeth: Options for Replacing Missing Teeth"
+      },
+      {
+        "id":"dentistry/missing_teeth/not_replaced",
+        "title":"Missing Teeth: When Missing Teeth Are Not Replaced"
+      },
+      {
+        "id":"dentistry/missing_teeth/bridge",
+        "title":"Missing Teeth: Bridge"
+      },
+      {
+        "id":"dentistry/missing_teeth/full_denture",
+        "title":"Missing Teeth: Full denture"
+      },
+      {
+        "id":"dentistry/missing_teeth/removable_partial_denture",
+        "title":"Missing Teeth: Removable partial denture (RPD)"
+      },
+      {
+        "id":"dentistry/implants/about",
+        "title":"Dental Implants: About Implants"
+      },
+      {
+        "id":"dentistry/implants/procedure",
+        "title":"Dental Implants: Implant Procedure"
+      },
+      {
+        "id":"dentistry/implants/denture",
+        "title":"Dental Implants: Implant Supported Denture"
+      },
+      {
+        "id":"dentistry/cosmetic/veneers",
+        "title":"Cosmetic Procedures: Veneers"
+      },
+      {
+        "id":"dentistry/cosmetic/home_whitening",
+        "title":"Cosmetic Procedures: Home whitening"
+      },
+      {
+        "id":"dentistry/cosmetic/laser_whitening",
+        "title":"Cosmetic Procedures: Laser whitening"
+      },
+      {
+        "id":"dentistry/periodontal/about",
+        "title":"Periodontal Disease: About Periodontal Disease"
+      },
+      {
+        "id":"dentistry/periodontal/scaling",
+        "title":"Periodontal Disease: Scaling"
+      },
+      {
+        "id":"dentistry/periodontal/grafting",
+        "title":"Periodontal Disease: Gingival grafting"
+      },
+      {
+        "id":"dentistry/wisdom/about",
+        "title":"Wisdom Teeth: Explained"
+      },
+      {
+        "id":"dentistry/wisdom/extraction",
+        "title":"Wisdom Teeth: Extraction"
+      },
+      {
+        "id":"dentistry/preventative/brushing",
+        "title":"Preventative: Brushing"
+      },
+      {
+        "id":"dentistry/preventative/flossing",
+        "title":"Preventative: Flossing"
+      },
+      {
+        "id":"dentistry/preventative/sealants",
+        "title":"Preventative: Sealants"
+      },
+      {
+        "id":"dentistry/preventative/regular_visits",
+        "title":"Preventative: Regular dental visits"
+      }
+    ]
+  },
+  {
+    "title": "PlanScan",
+    "videos": [
+      {
+        "id":"dentistry/planscan/decay_crown",
+        "title":"PlanScan: Tooth Decay - Crown"
+      },
+      {
+        "id":"dentistry/planscan/decay_inlay_onlay",
+        "title":"PlanScan: Tooth Decay - Inlay/Onlay"
+      },
+      {
+        "id":"dentistry/planscan/cusp_crown",
+        "title":"PlanScan: Cusp Fracture - Crown"
+      }
+    ]
+  },
+  {
+    "title": "Orthodontic",
+    "videos": [
+      {
+        "id":"ortho/problems/overview",
+        "title":"Orthodontic Problems: Overview of orthodontic problems"
+      },
+      {
+        "id":"ortho/problems/ideal_alignment",
+        "title":"Orthodontic Problems: Ideal alignment and occlusion"
+      },
+      {
+        "id":"ortho/problems/overjet",
+        "title":"Orthodontic Problems: Overjet"
+      },
+      {
+        "id":"ortho/problems/anterior_crossbite",
+        "title":"Orthodontic Problems: Anterior crossbite"
+      },
+      {
+        "id":"ortho/problems/posterior_crossbite",
+        "title":"Orthodontic Problems: Posterior crossbite"
+      },
+      {
+        "id":"ortho/problems/open_bite",
+        "title":"Orthodontic Problems: Open bite"
+      },
+      {
+        "id":"ortho/problems/deep_bite",
+        "title":"Orthodontic Problems: Deep bite"
+      },
+      {
+        "id":"ortho/problems/crowded_teeth",
+        "title":"Orthodontic Problems: Crowded teeth"
+      },
+      {
+        "id":"ortho/problems/spaced_teeth",
+        "title":"Orthodontic Problems: Spaced teeth"
+      },
+      {
+        "id":"ortho/problems/missing_teeth",
+        "title":"Orthodontic Problems: Missing teeth"
+      },
+      {
+        "id":"ortho/problems/crowded_eye_teeth",
+        "title":"Orthodontic Problems: Crowded eye teeth"
+      },
+      {
+        "id":"ortho/problems/rotated_teeth",
+        "title":"Orthodontic Problems: Rotated teeth"
+      },
+      {
+        "id":"ortho/braces/how",
+        "title":"Braces: How teeth move with braces"
+      },
+      {
+        "id":"ortho/braces/align",
+        "title":"Braces: Braces to align teeth"
+      },
+      {
+        "id":"ortho/braces/applied",
+        "title":"Braces: How braces are applied"
+      },
+      {
+        "id":"ortho/braces/getting_to_know",
+        "title":"Braces: Getting to know your braces"
+      },
+      {
+        "id":"ortho/braces/elastics",
+        "title":"Braces: Elastics to correct bite"
+      },
+      {
+        "id":"ortho/braces/cleaning",
+        "title":"Braces: Cleaning your braces"
+      },
+      {
+        "id":"ortho/braces/clear_aligners",
+        "title":"Braces: Clear aligners"
+      },
+      {
+        "id":"ortho/appliances/how",
+        "title":"Appliances: How teeth move with appliances"
+      },
+      {
+        "id":"ortho/appliances/maintaining_space",
+        "title":"Appliances: Maintaining space for permanent teeth"
+      },
+      {
+        "id":"ortho/appliances/regaining_space",
+        "title":"Appliances: Regaining space for permanent teeth"
+      },
+      {
+        "id":"ortho/appliances/correcting_habits",
+        "title":"Appliances: Correcting habits"
+      },
+      {
+        "id":"ortho/appliances/expanding_upper_arch",
+        "title":"Appliances: Expanding the upper arch"
+      },
+      {
+        "id":"ortho/appliances/widening_upper_jaw",
+        "title":"Appliances: Widening the upper jaw"
+      },
+      {
+        "id":"ortho/appliances/malalignment",
+        "title":"Appliances: Correcting jaw mal-alignment"
+      },
+      {
+        "id":"ortho/appliances/finishing",
+        "title":"Appliances: Finishing appliance"
+      },
+      {
+        "id":"ortho/appliances/retention",
+        "title":"Appliances: Retention"
+      },
+      {
+        "id":"ortho/appliances/cleaning",
+        "title":"Appliances: Cleaning your appliances"
+      }
+    ]
+  },
+  {
+    "title": "Cosmetic Dentistry",
+    "videos": [
+      {
+        "id":"cosmetic/beautiful_smile/about",
+        "title":"A Beautiful Smile: The art and science of your smile"
+      },
+      {
+        "id":"cosmetic/beautiful_smile/shape",
+        "title":"A Beautiful Smile: The contours of your smile"
+      },
+      {
+        "id":"cosmetic/beautiful_smile/details",
+        "title":"A Beautiful Smile: The finer details of your smile"
+      },
+      {
+        "id":"cosmetic/beautiful_smile/youthful",
+        "title":"A Beautiful Smile: A Youthful Smile"
+      },
+      {
+        "id":"cosmetic/testimonials/john",
+        "title":"Patient Stories: John's Story"
+      },
+      {
+        "id":"cosmetic/testimonials/angela",
+        "title":"Patient Stories: Angela's Story"
+      },
+      {
+        "id":"cosmetic/testimonials/angela_2",
+        "title":"Patient Stories: Angela's Story"
+      },
+      {
+        "id":"cosmetic/testimonials/kim",
+        "title":"Patient Stories: Kim's Story"
+      },
+      {
+        "id":"cosmetic/testimonials/gil",
+        "title":"Patient Stories: Gil's Story"
+      }
+    ]
+  },
+  {
+    "title": "Kidszone",
+    "videos": [
+      {
+        "id":"kidszone/ricky_first_visit",
+        "title":"Kids Zone - Ricky's First Dental Visit"
+      },
+      {
+        "id":"kidszone/ricky",
+        "title":"Kids Zone - Ricky Brushes his Teeth"
+      }
+    ]
+  },
+  {
+    "title": "CEREC",
+    "videos": [
+      {
+        "id":"cerec/decay/inlay",
+        "title":"Tooth Decay: Inlay (CEREC)"
+      },
+      {
+        "id":"cerec/decay/onlay",
+        "title":"Tooth Decay: Onlay (CEREC)"
+      },
+      {
+        "id":"cerec/cusp/3_4_crown",
+        "title":"Cusp Fractures: 3/4 crown (CEREC)"
+      },
+      {
+        "id":"cerec/cusp/crown",
+        "title":"Cusp Fractures: Crown (CEREC)"
+      },
+      {
+        "id":"cerec/cusp/crown_no_buildup",
+        "title":"Cusp Fractures: Crown, no buildup (CEREC)"
+      },
+      {
+        "id":"cerec/cosmetic/veneer",
+        "title":"Cosmetic Problems: Veneer color correction (CEREC)"
+      }
+    ]
+  }
+]
