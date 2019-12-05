@@ -13,10 +13,10 @@
  * @package           MLB Locations
  *
  * @wordpress-plugin
- * Plugin Name:       MLB Locations
+ * Plugin Name:       GOLDN Locations
  * Plugin URI:        http://mylocalbeacon.com
- * Description:       Pull in location data
- * Version:           0.0.1
+ * Description:       Pull in location data with shortcodes
+ * Version:           0.0.2
  * Author:            My Local Beacon
  * Author URI:        http://mylocalbeacon.com/
  * License:           Closed source
@@ -71,3 +71,6 @@ function run_mlb_locations() {
 
 }
 run_mlb_locations();
+
+
+// updated plugin test....
