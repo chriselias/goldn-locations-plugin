@@ -16,7 +16,7 @@
  * Plugin Name:       GOLDN Locations
  * Plugin URI:        http://mylocalbeacon.com
  * Description:       Pull in location data with shortcodes
- * Version:           0.0.2
+ * Version:           0.0.3
  * Author:            My Local Beacon
  * Author URI:        http://mylocalbeacon.com/
  * License:           Closed source
