@@ -53,7 +53,7 @@ require plugin_dir_path( __FILE__ ) . 'includes/class-mlb-shortcodes.php';
 /**
  * Create locations widget
  */
-require plugin_dir_path( __FILE__ ) . 'includes/class-mlb-locations-widget.php';
+// require plugin_dir_path( __FILE__ ) . 'includes/class-mlb-locations-widget.php';
 
 /**
  * Begins execution of the plugin.

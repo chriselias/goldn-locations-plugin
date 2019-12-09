@@ -73,7 +73,7 @@ class MLB_LOCATIONS {
 
     $this->load_dependencies();
     $this->define_shortcode_actions();
-    $this->define_widget_actions();
+  //  $this->define_widget_actions();
 
   }
 
@@ -137,16 +137,6 @@ class MLB_LOCATIONS {
     $this->loader->add_action( 'wp_enqueue_media', $mlb_shortcodes, 'include_locations_button_js' );
   }
 
-  /**
-   * Register widget actions
-   *
-   * @since    1.0.0
-   * @access   private
-   */
-  private function define_widget_actions() {
-    $mlb_staff_widget = new MLB_Locations_Widget( $this->get_plugin_name(), $this->get_version() );
-    $this->loader->add_action( 'widgets_init', $mlb_staff_widget, 'register_widget' );
-  }
 
   /**
    * Run the loader to execute all of the hooks with WordPress.
